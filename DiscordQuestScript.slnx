@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DiscordQuestScript.vcxproj" Id="bbfbfb19-47d8-4631-81b4-d77ba1c53ca0" />
+</Solution>
