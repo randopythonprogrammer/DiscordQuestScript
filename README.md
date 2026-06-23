@@ -8,7 +8,6 @@ Discord's game detection system actively scans the absolute file path and window
 * **Dynamic Path Generation:** Automatically builds deep folder chains (e.g., `GOALS\games\Goals`).
 * **Self-Cloning Process:** Copies itself into the faked directory under the official game executable name.
 * **Smart Detection Loop:** Cycles the process every 20 seconds until Discord successfully detects it.
-* **2-Strike Failsafe:** Automatically aborts if the user reports detection failure twice.
 * **Auto-Cleanup:** Recursively deletes all generated fake directories and executables once the quest timer completes or the script fails.
 
 ---
